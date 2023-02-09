@@ -1,0 +1,11 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+body {
+  margin-top: 50px;
+  text-align: center;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+}
